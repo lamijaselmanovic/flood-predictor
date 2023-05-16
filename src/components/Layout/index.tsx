@@ -5,16 +5,19 @@ import { Container } from 'react-grid-system';
 
 import { Color } from 'styles/constants';
 
-import Header from 'components/Header';
-
 const Wrapper = styled.div`
   background: ${Color.backgroundPrimary};
+`;
+
+const StyledHeader = styled.header`
+  height: 4rem;
+  background: ${Color.blue};
 `;
 
 const Layout = () => {
   return (
     <Wrapper>
-      <Header />
+      <StyledHeader />
       <Container fluid>
         <Outlet />
       </Container>

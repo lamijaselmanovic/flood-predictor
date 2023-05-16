@@ -1,14 +1,7 @@
 import React from 'react';
-import UploadFiles from './UploadFiles';
-import Results from './Results';
 
 const FloodPrediction = () => {
-  return (
-    <>
-      <UploadFiles />
-      <Results />
-    </>
-  );
+  return <div>FloodPrediction</div>;
 };
 
 export default FloodPrediction;

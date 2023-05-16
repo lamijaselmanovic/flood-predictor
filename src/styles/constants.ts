@@ -29,7 +29,8 @@ const Color = {
   mediumLightGray: '#EDF2F4',
   green: '#16C079',
   red: '#E25050',
-  darkBlue: '#097AAA'
+  darkBlue: '#097AAA',
+  azureBlue: '#00A8DB'
 };
 
 const FontSize = {
@@ -37,7 +38,12 @@ const FontSize = {
   sm: '0.9rem',
   md: '1rem',
   lg: '1.2rem',
-  xl: '1.4rem'
+  xl: '1.4rem',
+  xxl: '3rem'
+};
+
+const LineHeight = {
+  md: '1.5rem'
 };
 
 const BorderRadius = {
@@ -45,4 +51,4 @@ const BorderRadius = {
   lg: '30px'
 };
 
-export { Spacing, Color, FontSize, BorderRadius };
+export { Spacing, Color, FontSize, BorderRadius, LineHeight };

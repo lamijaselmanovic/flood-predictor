@@ -1,0 +1,752 @@
+[
+  {
+    "id": "4050",
+    "name": "HS Raspoto\u010dje",
+    "region": "Zenica",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "106.9" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "106.2" }
+    ]
+  },
+  {
+    "id": "4055",
+    "name": "HS \u017dep\u010de",
+    "region": "Zenica",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "112.7" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "113.1" }
+    ]
+  },
+  {
+    "id": "4060",
+    "name": "HS Zavidovi\u0107i n/B",
+    "region": "Zavidovi\u0107i",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "118.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "119.0" }
+    ]
+  },
+  {
+    "id": "4061",
+    "name": "HS Donji Uli\u0161njak",
+    "region": "Maglaj",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "136.4" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "135.9" }
+    ]
+  },
+  {
+    "id": "4080",
+    "name": "HS \u0160amac",
+    "region": "Od\u017eak",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "452.4" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "452.5" }
+    ]
+  },
+  {
+    "id": "4111",
+    "name": "HS Podteljig",
+    "region": "Trnovo",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "61.3" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "61.7" }
+    ]
+  },
+  {
+    "id": "4130",
+    "name": "HS Doglodi",
+    "region": "Ilid\u017ea",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "18.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "18.0" }
+    ]
+  },
+  {
+    "id": "9030",
+    "name": "HS Fojnica",
+    "region": "Fojnica",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "77.4" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "77.8" }
+    ]
+  },
+  {
+    "id": "4220",
+    "name": "HS Visoko n/F",
+    "region": "Visoko",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "35.9" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "34.9" }
+    ]
+  },
+  {
+    "id": "9044",
+    "name": "HS \u017divinice",
+    "region": "\u017divinice",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "54.8" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "55.0" }
+    ]
+  },
+  {
+    "id": "4340",
+    "name": "HS Stipovi\u0107i",
+    "region": "Zavidovi\u0107i",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "100.9" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "101.1" }
+    ]
+  },
+  {
+    "id": "4450",
+    "name": "HS Lije\u0161nica",
+    "region": "Maglaj",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "55.1" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "54.8" }
+    ]
+  },
+  {
+    "id": "4150",
+    "name": "HS Semizovac",
+    "region": "Vogo\u0161\u0107a",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "34.8" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "34.5" }
+    ]
+  },
+  {
+    "id": "4142",
+    "name": "HS Vodoprivreda",
+    "region": "Novo Sarajevo",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "56.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "55.0" }
+    ]
+  },
+  {
+    "id": "4145",
+    "name": "HS Butile n/M",
+    "region": "Ilid\u017ea",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "194.2" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "190.4" }
+    ]
+  },
+  {
+    "id": "4620",
+    "name": "HS Modrac",
+    "region": "Lukavac",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "93.2" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "93.2" }
+    ]
+  },
+  {
+    "id": "4630",
+    "name": "HS Karanovac",
+    "region": "Gra\u010danica",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "99.4" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "99.4" }
+    ]
+  },
+  {
+    "id": "4170",
+    "name": "HS Podlugovi",
+    "region": "Ilija\u0161",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "51.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "50.4" }
+    ]
+  },
+  {
+    "id": "4230",
+    "name": "HS Obre",
+    "region": "Kakanj",
+    "unit": "cm",
+    "values": [{ "time": "11:00:00", "date": "2023-05-12", "level": "36.1" }]
+  },
+  {
+    "id": "9043",
+    "name": "HS Turija",
+    "region": "Lukavac",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "29.8" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "30.2" }
+    ]
+  },
+  {
+    "id": "4510",
+    "name": "HS Kalo\u0161evi\u0107i",
+    "region": "Te\u0161anj",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "84.7" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "84.8" }
+    ]
+  },
+  {
+    "id": "4121",
+    "name": "HS Bla\u017euj",
+    "region": "Ilid\u017ea",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "46.1" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "45.7" }
+    ]
+  },
+  {
+    "id": "4110",
+    "name": "HS Ilid\u017ea",
+    "region": "Ilid\u017ea",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "69.6" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "69.6" }
+    ]
+  },
+  {
+    "id": "5010",
+    "name": "HS Gora\u017ede",
+    "region": "Gora\u017ede",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "92.9" },
+      { "time": "11:30:00", "date": "2023-05-12", "level": "99.4" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "104.0" }
+    ]
+  },
+  {
+    "id": "5103",
+    "name": "HS Kladanj",
+    "region": "Kladanj",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "51.6" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "51.4" }
+    ]
+  },
+  {
+    "id": "5102",
+    "name": "HS Kolina",
+    "region": "Fo\u010da",
+    "unit": "cm",
+    "values": [
+      { "time": "10:45:00", "date": "2023-05-12", "level": "43.0" },
+      { "time": "11:00:00", "date": "2023-05-12", "level": "42.9" },
+      { "time": "11:15:00", "date": "2023-05-12", "level": "42.8" },
+      { "time": "11:30:00", "date": "2023-05-12", "level": "42.6" },
+      { "time": "11:45:00", "date": "2023-05-12", "level": "42.5" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "42.4" },
+      { "time": "12:15:00", "date": "2023-05-12", "level": "42.4" }
+    ]
+  },
+  {
+    "id": "5101",
+    "name": "HS Pra\u010da",
+    "region": "Pale-Pra\u010da",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "68.4" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "68.4" }
+    ]
+  },
+  {
+    "id": "1033",
+    "name": "CS Tolisa - Tolisa",
+    "region": "Ora\u0161je",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "20.9" },
+      { "time": "11:30:00", "date": "2023-05-12", "level": "20.9" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "20.9" }
+    ]
+  },
+  {
+    "id": "1012",
+    "name": "CS Zorice",
+    "region": "Od\u017eak",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "136.7" },
+      { "time": "11:30:00", "date": "2023-05-12", "level": "136.7" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "136.7" }
+    ]
+  },
+  {
+    "id": "1010",
+    "name": "HS Svilaj",
+    "region": "Od\u017eak",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "78.9" },
+      { "time": "11:30:00", "date": "2023-05-12", "level": "78.8" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "78.8" }
+    ]
+  },
+  {
+    "id": "1020",
+    "name": "HS Grebnice",
+    "region": "Domaljevac-\u0160amac",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "346.2" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "346.0" }
+    ]
+  },
+  {
+    "id": "1030",
+    "name": "HS Ora\u0161je",
+    "region": "Ora\u0161je",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "547.7" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "547.5" }
+    ]
+  },
+  {
+    "id": "1110",
+    "name": "HS Srebrenik",
+    "region": "Srebrenik",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "36.2" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "36.1" }
+    ]
+  },
+  {
+    "id": "2320",
+    "name": "HS Sanski Most",
+    "region": "Sanski Most",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "165.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "166.0" }
+    ]
+  },
+  {
+    "id": "9018",
+    "name": "HS Sanica",
+    "region": "Klju\u010d",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "125.2" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "125.3" }
+    ]
+  },
+  {
+    "id": "9017",
+    "name": "HS Hrustovo",
+    "region": "Sanski Most",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "128.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "128.0" }
+    ]
+  },
+  {
+    "id": "2010",
+    "name": "HS Martin Brod",
+    "region": "Biha\u0107",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "178.9" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "179.3" }
+    ]
+  },
+  {
+    "id": "2020",
+    "name": "HS Kulen Vakuf",
+    "region": "Biha\u0107",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "123.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "124.0" }
+    ]
+  },
+  {
+    "id": "2035",
+    "name": "HS Ripa\u010d",
+    "region": "Biha\u0107",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "131.5" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "132.3" }
+    ]
+  },
+  {
+    "id": "2031",
+    "name": "HS Biha\u0107",
+    "region": "Biha\u0107",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "60.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "61.0" }
+    ]
+  },
+  {
+    "id": "2110",
+    "name": "HS Drvar",
+    "region": "Drvar",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "69.9" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "70.2" }
+    ]
+  },
+  {
+    "id": "2120",
+    "name": "HS Rmanj Manastir",
+    "region": "Biha\u0107",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "103.5" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "103.8" }
+    ]
+  },
+  {
+    "id": "3010",
+    "name": "HS Gornji Vakuf",
+    "region": "Gornji Vakuf",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "18.4" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "17.7" }
+    ]
+  },
+  {
+    "id": "3040",
+    "name": "HS Bugojno",
+    "region": "Bugojno",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "78.4" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "78.2" }
+    ]
+  },
+  {
+    "id": "3020",
+    "name": "HS Daljan",
+    "region": "Donji Vakuf",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "90.2" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "90.5" }
+    ]
+  },
+  {
+    "id": "9019",
+    "name": "HS Bliha",
+    "region": "Sanski Most",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "37.6" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "37.5" }
+    ]
+  },
+  {
+    "id": "4024",
+    "name": "HS Ljubni\u0107i",
+    "region": "Ilija\u0161",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "124.4" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "131.3" }
+    ]
+  },
+  {
+    "id": "4030",
+    "name": "HS Visoko n/B",
+    "region": "Visoko",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "84.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "85.0" }
+    ]
+  },
+  {
+    "id": "4042",
+    "name": "HS Kakanj n/B",
+    "region": "Kakanj",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "159.3" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "160.3" }
+    ]
+  },
+  {
+    "id": "4062",
+    "name": "HS Maglaj Grad",
+    "region": "Maglaj",
+    "unit": "cm",
+    "values": [
+      { "time": "10:45:00", "date": "2023-05-12", "level": "83.0" },
+      { "time": "11:00:00", "date": "2023-05-12", "level": "84.0" },
+      { "time": "11:15:00", "date": "2023-05-12", "level": "83.0" },
+      { "time": "11:30:00", "date": "2023-05-12", "level": "83.0" },
+      { "time": "11:45:00", "date": "2023-05-12", "level": "83.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "83.0" }
+    ]
+  },
+  {
+    "id": "4070",
+    "name": "HS Maglaj",
+    "region": "Maglaj",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "140.7" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "140.2" }
+    ]
+  },
+  {
+    "id": "4071",
+    "name": "HS Kosova",
+    "region": "Maglaj",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "90.9" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "90.1" }
+    ]
+  },
+  {
+    "id": "4410",
+    "name": "HS Olovo",
+    "region": "Olovo",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "79.7" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "89.8" }
+    ]
+  },
+  {
+    "id": "4430",
+    "name": "HS Zavidovi\u0107i n/K",
+    "region": "Zavidovi\u0107i",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "22.7" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "22.0" }
+    ]
+  },
+  {
+    "id": "4310",
+    "name": "HS Travnik",
+    "region": "Travnik",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "68.5" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "68.5" }
+    ]
+  },
+  {
+    "id": "4161",
+    "name": "HS Ilija\u0161",
+    "region": "Ilija\u0161",
+    "unit": "cm",
+    "values": [{ "time": "11:00:00", "date": "2023-05-12", "level": "50.3" }]
+  },
+  {
+    "id": "9045",
+    "name": "HS Donja Vi\u0161\u0107a",
+    "region": "\u017divinice",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "41.3" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "41.7" }
+    ]
+  },
+  {
+    "id": "4610",
+    "name": "HS Stra\u0161anj",
+    "region": "\u017divinice",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "37.5" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "38.3" }
+    ]
+  },
+  {
+    "id": "9130",
+    "name": "HS Te\u0161anjka",
+    "region": "Usora",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "107.8" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "107.6" }
+    ]
+  },
+  {
+    "id": "4530",
+    "name": "HS Karu\u0161e",
+    "region": "Doboj Jug",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "25.1" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "25.2" }
+    ]
+  },
+  {
+    "id": "4240",
+    "name": "HS Kakanj n/Zg",
+    "region": "Kakanj",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "9.1" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "9.0" }
+    ]
+  },
+  {
+    "id": "9026",
+    "name": "HS Velika Kladu\u0161a",
+    "region": "Velika Kladu\u0161a",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "71.6" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "80.7" }
+    ]
+  },
+  {
+    "id": "1011",
+    "name": "CS Svilaj",
+    "region": "Od\u017eak",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "68.0" },
+      { "time": "11:30:00", "date": "2023-05-12", "level": "67.5" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "67.1" }
+    ]
+  },
+  {
+    "id": "2210",
+    "name": "HS Klokot",
+    "region": "Biha\u0107",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "209.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "209.0" }
+    ]
+  },
+  {
+    "id": "2310",
+    "name": "HS Klju\u010d",
+    "region": "Klju\u010d",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "93.3" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "95.0" }
+    ]
+  },
+  {
+    "id": "2030",
+    "name": "HS Kralje",
+    "region": "Biha\u0107",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "267.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "267.9" }
+    ]
+  },
+  {
+    "id": "2040",
+    "name": "HS Kostela",
+    "region": "Biha\u0107",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "164.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "164.0" }
+    ]
+  },
+  {
+    "id": "2050",
+    "name": "HS Bosanska Krupa",
+    "region": "Bosanska Krupa",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "111.7" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "112.2" }
+    ]
+  },
+  {
+    "id": "2060",
+    "name": "HS Bosanska Otoka",
+    "region": "Bosanska Krupa",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "152.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "153.0" }
+    ]
+  },
+  {
+    "id": "3030",
+    "name": "HS Kozluk",
+    "region": "Jajce",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "7.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "8.1" }
+    ]
+  },
+  {
+    "id": "2101-B",
+    "name": "HS Bistrica",
+    "region": "Gornji Vakuf",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "36.3" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "36.4" }
+    ]
+  },
+  {
+    "id": "1032",
+    "name": "CS Tolisa - Brije\u017enica",
+    "region": "",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "65.1" },
+      { "time": "11:30:00", "date": "2023-05-12", "level": "65.0" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "64.9" }
+    ]
+  },
+  {
+    "id": "1031",
+    "name": "CS Tolisa - Demerovac",
+    "region": "",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "58.8" },
+      { "time": "11:30:00", "date": "2023-05-12", "level": "58.8" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "58.8" }
+    ]
+  },
+  {
+    "id": "4114",
+    "name": "HS Butmir",
+    "region": "Ilid\u017ea",
+    "unit": "cm",
+    "values": [
+      { "time": "11:00:00", "date": "2023-05-12", "level": "72.4" },
+      { "time": "12:00:00", "date": "2023-05-12", "level": "71.5" }
+    ]
+  }
+]
